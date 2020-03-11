@@ -1,0 +1,2 @@
+# Lenovo-U430P-i5-4210u
+# CLOVER
